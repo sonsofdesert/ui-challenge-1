@@ -1,0 +1,155 @@
+/* ******************Phone View!!**************** */
+
+@media screen and (min-width: 750px) {
+    /* .flexcontainer {
+        border: solid 1px black;
+        display: flex;
+        /* flex-direction: column; */
+    }
+    
+    /* #divA {
+        background-color: lightgray;
+        width: 100%;
+        height: 75px;
+        border: solid black 1px;
+    } */
+    
+    
+    #divB {
+        background-color: lightgray;
+        width: 100%;
+        height: 150px;
+        border: solid black 1px;
+    }
+    
+    #divC {
+        background-color: lightgray;
+        width: 100%;
+        height: 125px;
+        border: solid black 1px;
+    }
+    
+    #divD {
+        background-color: lightgray;
+        width: 100%;
+        height: 125px;
+        border: solid black 1px;
+    }
+    
+.blocks {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+    #divE {
+        background-color: lightgray;
+        width: 49%;
+        height: 250px;
+        border: solid black 1px;
+        display: inline-block;
+    }
+
+    #divF {
+        background-color: lightgray;
+        width: 50.5%;
+        height: 250px;
+        border: solid black 1px;
+        display: inline-block
+    }
+    
+    #divG {
+        background-color: lightgray;
+        width: 49%;
+        height: 250px;
+        border: solid black 1px;
+        display: inline-block
+    }
+    
+    #divH {
+        background-color: lightgray;
+        width: 50.5%;
+        height: 251px;
+        border: solid black 1px;
+        display: inline-block
+    }
+    
+    #divI {
+        padding: 50px;
+        background-color: lightgray;
+        width: 100%;
+        height: 80px;
+        border: solid black 1px;
+        display: inline-block
+    }
+  }
+
+    /* ******Desktop View***** */
+ 
+body {
+    max-width: 960px;
+    margin: auto;
+    display: flex;
+}
+#divA {
+    background-color: lightgray;
+    width: 100%;
+    height: 96px;
+    border: solid black 1px;
+    }
+
+#divB-divI {
+    background-color: lightgray;
+    border: solid black 1px;
+    display: flex;
+    flex-direction: row;
+    }
+
+#divC-divI {
+    display: flex;
+    flex-direction: column;
+}
+
+#divA{
+    height: 100px;
+    width: 100%
+}
+
+#divB{
+    height: 600px;
+    width: 200;
+}
+
+#divC{
+    height: 200px;
+    width: 380px;
+}
+
+#divD{
+    height: 200px;
+    width: 380;
+}
+
+#divE{
+    height: 250;
+    width: 190;
+}
+
+#divF{
+    height: 250;
+    width: 190;
+}
+
+#divG{
+    height: 250;
+    width: 190;
+}
+
+#divH{
+    height: 250;
+    width: 190;
+}
+
+#divI{
+    height: 150;
+    width: 760;
+}
