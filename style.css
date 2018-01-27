@@ -1,0 +1,33 @@
+/* @media (min-width: 768px)
+
+.flexcontainer {
+    border-style: solid;
+    border-width: 1px; 
+    flex-direction: column;
+}
+
+#divA {
+    padding: 50px;
+    background-color: rgb(236, 247, 246);
+}
+
+#divB {
+    padding: 50px;
+    background-color: rgb(160, 145, 145);
+}
+
+#divC {
+    padding: 50px;
+    background-color: rgb(136, 133, 133);
+}
+
+#divD {
+    padding: 50px;
+    background-color: rgb(83, 83, 83);
+}
+
+#divE {
+    padding: 50px;
+    background-color: rgb(34, 34, 34)
+} */
+
